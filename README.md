@@ -32,9 +32,7 @@ Two configurations are provided, depending on the LM2596 version used.
 
 Install:
 
-- `R9`;
-- `R10`;
-- `C6`;
+- `R9`, `R10`, `C6`;
 
 as shown in the schematic.
 
@@ -42,8 +40,7 @@ as shown in the schematic.
 
 For the fixed 5 V regulator:
 
-- do not install `R10`;
-- do not install `C6`;
+- do not install `R10`, `C6`;
 - install a **0 Ω** jumper in place of `R9`.
 
 Additional power filtering follows the regulator, along with a separate filtered analog rail, `+5VA_1`.
