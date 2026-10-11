@@ -193,7 +193,8 @@ C4  = УСТАНОВЛЕН
 ## Галерея и примеры установки
 
 [Галерея с примерами](https://github.com/Viva76/FF_AV_mod/tree/main/Images/)
-
+![photo1](https://github.com/Viva76/FF_AV_mod/blob/main/Images/20260214_141828.jpg)
+![photo2](https://github.com/Viva76/FF_AV_mod/blob/main/Images/20260214_150227.jpg)
 ---
 
 ## Предупреждение
