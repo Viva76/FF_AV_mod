@@ -190,7 +190,8 @@ A ready-made Mini-DIN → RCA adapter can be used. For a snug fit, some ready-ma
 ## Gallery and Installation Examples
 
 [Gallery with examples](https://github.com/Viva76/FF_AV_mod/tree/main/Images/)
-
+![photo1](https://github.com/Viva76/FF_AV_mod/blob/main/Images/20260214_141828.jpg)
+![photo2](https://github.com/Viva76/FF_AV_mod/blob/main/Images/20260214_150227.jpg)
 ---
 
 ## Disclaimer
